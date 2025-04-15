@@ -1,4 +1,8 @@
 A Hybrid Medical Image Encryption Algorithm using Neural Network and Chaotic Maps
+
+WORKED BY SRISUUDHARSAN AND LINKKESH
+
+
 Even with today’s advanced telemedicine 
 technology, there are still areas where security is compromised
 for various reasons. This work proposes a novel encryption
